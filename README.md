@@ -1,2 +1,3 @@
-# CI
-Interfícies de Computadors
+# CI: Interfícies de Computadors
+## Continguts:
+* Laboratori
